@@ -1,0 +1,21 @@
+
+a {
+	font-size: 25px;
+	font-weight: bolder;
+	color: red;
+}
+/*
+#head3 {
+	font-size: 30px;
+	color: gold;
+}*/
+
+.head3 {
+	font-size: 30px;
+	color: green;
+	text-align: center;
+}
+
+.ancor {
+	text-align: center;
+}
